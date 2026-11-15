@@ -14,7 +14,7 @@ from openpyxl import load_workbook
 from playwright.sync_api import sync_playwright
 
 BASE_URL = 'http://127.0.0.1:8000'
-DELAY_ENTRE_FUNCIONARIOS = 2.0  # segundos; altere aqui se desejar
+DELAY_ENTRE_FUNCIONARIOS = 2.0
 COLUNAS = ('funcionario_id', 'periodo', 'horas_trabalhadas', 'he50', 'he100', 'faltas', 'atestados')
 ALIASES = {
     'id': 'funcionario_id', 'id_trabalhador': 'funcionario_id', 'id_funcionario': 'funcionario_id',
