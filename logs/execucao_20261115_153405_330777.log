@@ -1,0 +1,21 @@
+[15/11/2026 15:34:05] INFO - Arquivo de log criado: C:\Users\Minec\Desktop\RPA_Independente\logs\execucao_20261115_153405_330777.log
+[15/11/2026 15:34:05] INFO - Excel recebido com sucesso: 11 funcionários/períodos consolidados
+[15/11/2026 15:34:05] INFO - ATENÇÃO: horas extras sem classificação serão tratadas como HE 50%; HE 100% e atestados ausentes serão zero (somente demonstração).
+[15/11/2026 15:34:05] INFO - Procedimento iniciado; abrindo sistema de RH
+[15/11/2026 15:34:06] INFO - Página folha.html aberta com sucesso
+[15/11/2026 15:34:06] INFO - Intervalo entre funcionários: 2 segundos
+[15/11/2026 15:34:06] INFO - [1/11] Funcionário 1042 - Ana Souza: registrado com sucesso
+[15/11/2026 15:34:08] INFO - [2/11] Funcionário 1043 - Bruno Lima: registrado com sucesso
+[15/11/2026 15:34:11] INFO - [3/11] Funcionário 1044 - Carla Mendes: registrado com sucesso
+[15/11/2026 15:34:13] INFO - [4/11] Funcionário 1045 - Diego Alves: registrado com sucesso
+[15/11/2026 15:34:15] INFO - [5/11] Funcionário 1046 - Elaine Costa: registrado com sucesso
+[15/11/2026 15:34:17] INFO - [6/11] Funcionário 1047 - Fábio Rocha: registrado com sucesso
+[15/11/2026 15:34:19] INFO - [7/11] Funcionário 1048 - Henrique Antonio: registrado com sucesso
+[15/11/2026 15:34:21] INFO - [8/11] Funcionário 1049 - Pedro Antonio: registrado com sucesso
+[15/11/2026 15:34:23] INFO - [9/11] Funcionário 1050 - José Antonio: registrado com sucesso
+[15/11/2026 15:34:25] INFO - ERRO funcionário 9001 (linha 11): ID não encontrado (404)
+[15/11/2026 15:34:27] INFO - ERRO funcionário 9002 (linha 12): ID não encontrado (404)
+[15/11/2026 15:34:27] INFO - Lançamentos concluídos: 9 novos, 0 duplicados ignorados, 2 falhas
+[15/11/2026 15:34:27] INFO - Abrindo relatórios e tentando baixar mesmo com duplicados ou falhas
+[15/11/2026 15:34:35] INFO - Relatório baixado; abrindo arquivo: C:\Users\Minec\Downloads\RPA_RH\folha_salarial_Outubro_de_2026_20261115_153435.xlsx
+[15/11/2026 15:34:35] INFO - Finalizado com pendências

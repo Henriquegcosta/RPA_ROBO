@@ -1,0 +1,16 @@
+[15/11/2026 15:27:18] INFO - Arquivo de log criado: C:\Users\Minec\Desktop\RPA_Independente\logs\execucao_20261115_152718_242106.log
+[15/11/2026 15:27:18] INFO - Excel recebido com sucesso: 6 funcionários/períodos consolidados
+[15/11/2026 15:27:18] INFO - ATENÇÃO: horas extras sem classificação serão tratadas como HE 50%; HE 100% e atestados ausentes serão zero (somente demonstração).
+[15/11/2026 15:27:18] INFO - Procedimento iniciado; abrindo sistema de RH
+[15/11/2026 15:27:19] INFO - Página folha.html aberta com sucesso
+[15/11/2026 15:27:19] INFO - Intervalo entre funcionários: 2 segundos
+[15/11/2026 15:27:19] INFO - [1/6] Funcionário 1042 - Ana Souza: registrado com sucesso
+[15/11/2026 15:27:21] INFO - [2/6] Funcionário 1043 - Bruno Lima: registrado com sucesso
+[15/11/2026 15:27:23] INFO - [3/6] Funcionário 1044 - Carla Mendes: registrado com sucesso
+[15/11/2026 15:27:25] INFO - [4/6] Funcionário 1045 - Diego Alves: registrado com sucesso
+[15/11/2026 15:27:28] INFO - [5/6] Funcionário 1046 - Elaine Costa: registrado com sucesso
+[15/11/2026 15:27:30] INFO - [6/6] Funcionário 1047 - Fábio Rocha: registrado com sucesso
+[15/11/2026 15:27:30] INFO - Lançamentos concluídos: 6 novos, 0 duplicados ignorados, 0 falhas
+[15/11/2026 15:27:30] INFO - Abrindo relatórios e tentando baixar mesmo com duplicados ou falhas
+[15/11/2026 15:27:35] INFO - Relatório baixado; abrindo arquivo: C:\Users\Minec\Downloads\RPA_RH\folha_salarial_Outubro_de_2026_20261115_152735.xlsx
+[15/11/2026 15:27:35] INFO - Finalizado com sucesso
